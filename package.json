@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/antotm99/json_the_cat#readme",
   "dependencies": {
+    "eslint": "^7.17.0",
     "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
   }
 }
